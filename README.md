@@ -105,3 +105,4 @@ npm run build
 - Styled with Tailwind CSS
 
 Built with ❤️ on Rocket.new
+[View the presentation](https://docs.google.com/presentation/d/1BAFmkA5WrB8FwxR1_AvPVdWmHBkQFiya/view?usp=sharing)
